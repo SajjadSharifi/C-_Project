@@ -1,0 +1,43 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.exp
+*.tlog
+*.lastbuildstate
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.sln.docstates
+*.testsettings
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+ipch/
+obj/
+[Bb]in/
+
+# Tooling
+_ReSharper*/
+*.DotSettings.user
+
+# Project files
+*.db
+*.opensdf
+*.vssscc
+*.VC.db
+*.VC.VC.opendb
+
+# Cache files
+*.cache
+*.tmp

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="All_Practices.cpp" />
+    <ClCompile Include="1_Vector-Class.cpp">
+      <Filter>Practices</Filter>
+    </ClCompile>
+    <ClCompile Include="2_6_Ratio-Class.cpp">
+      <Filter>Practices</Filter>
+    </ClCompile>
+    <ClCompile Include="7_Time-Class.cpp">
+      <Filter>Practices</Filter>
+    </ClCompile>
+    <ClCompile Include="8_Matrix-Class.cpp">
+      <Filter>Practices</Filter>
+    </ClCompile>
+    <ClCompile Include="9_Point-Class.cpp">
+      <Filter>Practices</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Practices">
+      <UniqueIdentifier>{d338de49-52c7-4070-9cbb-60574fc5b929}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

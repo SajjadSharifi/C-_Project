@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Season_4_Practice.cpp" />
+    <ClCompile Include="1_Inherited-Graph-Code.cpp">
+      <Filter>Practices</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Practices">
+      <UniqueIdentifier>{203849f8-9f84-428a-9d08-50313890c85d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
