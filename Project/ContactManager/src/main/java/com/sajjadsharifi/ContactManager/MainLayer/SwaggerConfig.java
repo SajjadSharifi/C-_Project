@@ -13,6 +13,6 @@ public class SwaggerConfig {
                 .info(new Info()
                         .title("PhoneBook Api 😎")
                         .version("1.0")
-                        .description("Sajjad_Sharifi_Panah And Hossein_Noroozi"));
+                        .description("Sajjad_Sharifi_Panah And Mohammad_Hossein_Noroozi"));
     }
 }
